@@ -1,0 +1,48 @@
+body{
+    background: lightgray;
+}
+.contenedor{
+    text-align: center;
+    margin-top: 50px;
+}
+.contenedor1{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.contenedor2{
+    text-align: right;
+}
+.contenido{
+    border-radius: 20px;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+
+
+}
+
+p{
+    margin: 0;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+button{
+    width: 220px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.boton{
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.botonvolver{
+    border-radius: 20px;
+    justify-content: center;
+}

@@ -1,0 +1,32 @@
+body{
+    background: lightgray
+}
+.contenedor{
+    text-align: center;
+}
+.contenedor1{
+    margin-top: 100px;
+    padding-top: 120px;
+}
+
+.contenido{
+    border-radius: 20px;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+    padding-top: 25px;
+}
+
+p{
+    margin: 0;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+button{
+    width: 220px;
+    height: 50px;
+}
